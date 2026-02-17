@@ -1,1 +1,2 @@
-i do MEANINGLESS and STUPID stuff, and put it here, i think?
+# blueb-rry
+I do things BECAUSE I WANT TO, and I sometimes put them here.
