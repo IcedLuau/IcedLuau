@@ -1,4 +1,6 @@
-# blueb-rry
-I do things BECAUSE I WANT TO, and I sometimes put them here.
-
-> "luau hyper-optimization is (not) my middle name!!"
+uh well liike this is my profile readme, so, quiz!1
+WHAT IS MY FAVORITE LANGUAGE
+a) Lua
+b) Luau
+c) COBOL
+d) Python
