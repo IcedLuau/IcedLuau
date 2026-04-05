@@ -1,11 +1,2 @@
-uh well liike this is my profile readme, so, quiz!1
-
-WHAT IS MY FAVORITE LANGUAGE
-
-**a)** Lua
-
-**b)** Luau
-
-**c)** COBOL
-
-**d)** Python
+if all you have is *luau*, then you tend to see every task as being able to written in *luau*, because you can write it in *luau* because luau is awesoome and versatile
+i mean javascript is also cool but like, luau is goated.
